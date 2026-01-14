@@ -1,0 +1,21 @@
+mathsolver_app/
+├── lib/
+│   ├── main.dart
+│   ├── screens/
+│   │   ├── home_screen.dart
+│   │   ├── solve_screen.dart
+│   │   ├── camera_screen.dart
+│   │   └── topics_screen.dart
+│   ├── services/
+│   │   ├── api_service.dart
+│   │   ├── math_service.dart
+│   │   └── ocr_service.dart
+│   ├── widgets/
+│   │   ├── math_input.dart
+│   │   ├── solution_display.dart
+│   │   └── step_by_step.dart
+│   └── utils/
+│       └── constants.dart
+├── pubspec.yaml
+└── assets/
+    └── images/

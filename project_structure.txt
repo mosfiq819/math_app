@@ -1,0 +1,8 @@
+mathsolver-backend/
+├── main.py
+├── requirements.txt
+├── math_solver.py
+├── ocr_processor.py
+├── ai_explainer.py
+└── utils/
+    └── math_parser.py
